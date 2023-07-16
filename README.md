@@ -23,4 +23,4 @@ Proyecto Final BASE para mostar Clase de Programación 3 - Website
 
 ### Modelo de referencia
 
-- El modelo de referencia se encuentra en esta URL:
+- El modelo de referencia es [SimpleHTML](https://simple-html.apps-dev.madlab.com.do/)
